@@ -103,7 +103,7 @@
 📱 Phone: **+91 9822272100**  
 
 🌐 Portfolio:  
-https://aniketdarekar07-datascience.github.io/Aniket_Darekar_Portfolio/
+https://aniketdarekar07-datascience.github.io/My-portfolio/
 
 🔗 LinkedIn:  
 https://linkedin.com/in/aniket-darekar07
