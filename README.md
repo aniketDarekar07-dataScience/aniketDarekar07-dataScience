@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# 🚀 Full Stack Developer | 📊 Data Science and AI/ML Developer 🤖🧠
+# 🚀 Full Stack Developer | 📊 Data Science and AI/ML Developer 🤖
 
 </div>
 
